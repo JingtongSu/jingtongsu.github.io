@@ -3,16 +3,15 @@
 
 ~~~
 {}{img_left}{pic.jpg}{alt text}{160}{160}{https://jingtongsu.github.io}
-Senior Undergraduate,\n
-[https://yuanpei.pku.edu.cn/ Yuanpei College],\n
-[https://www.pku.edu.cn/ Peking University]\n
-Email: jtsu \[@\] pku \[DOT\] edu \[DOT\] cn
+Ph.D. Student,\n
+[https://cds.nyu.edu/ Center for Data Science],\n
+[https://nyu.edu/ New York University]\n
+Email: js12196 \[@\] nyu \[DOT\] edu
 ~~~
 
 
 == About me
-Hi! I'm a senior undergraduate at [https://www.pku.edu.cn/ Peking University], majoring in Data Science and Big Data Technology. My research interests are in studying foundations of deep learning and designing algorithms based on theoretical insights and empirical observation. Recently, I was fortunate to join the [https://international.princeton.edu/international-students-and-scholars/International-Student-Internship-Program Princeton ISIP program] online and to spend a wonderful summer together with Prof. [https://jasondlee88.github.io Jason D.~Lee] and a group of incredible teammates.\n
-*I will apply for a Ph.D. this winter.* Please don't hesitate to contact me if you're interested!
+Hi! I'm a Ph.D. student at NYU [https://cds.nyu.edu/ Center for Data Science], working with Professor [https://cims.nyu.edu/~kempe/ Julia Kempe]. My research interests are around machine learning, both in designing algorithms based on theoretical insights and empirical observation, and in its applications to sciences such as physics. I spent a wonderful summer together with Prof. [https://jasondlee88.github.io Jason D.~Lee] and a group of incredible teammates via the [https://international.princeton.edu/international-students-and-scholars/International-Student-Internship-Program Princeton ISIP program] online last summer. I did my undergraduate thesis together with Prof. [https://sites.google.com/site/csyisenwang/ Yisen Wang] and a group of heartwarming seniors :D\n
 
 
 == Publications
@@ -21,11 +20,9 @@ Hi! I'm a senior undergraduate at [https://www.pku.edu.cn/ Peking University], m
 NeurIPS 2020.~[slides_sanity.pdf \[slides\]]~[https://github.com/JingtongSu/sanity-checking-pruning \[code\]]\n
 (\* denotes equal contribution)
 
-== Awards
-- Merit Student Pacesetter (2019), Top 6
-- PKU 3rd-class Scholarship (2020,2019), Top 5%
-- Merit Student (2020,2018), Top 5%
-- May 4th Scholarship (2018), Top 5%
+== Selected Awards
+- Outstanding Graduate in Beijing (2021)
+- Merit Student Pacesetter at PKU (2019)
 - Gold Medal at Chinese Physics Olympiad (2016)
 - Bronze Medal at Chinese Physics Olympiad (2015)
 
